@@ -1,2 +1,2 @@
 # ai_agent
-Trying out agentic ai
+Trying to build an ai-agent
